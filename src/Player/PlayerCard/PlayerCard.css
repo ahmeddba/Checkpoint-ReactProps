@@ -1,0 +1,18 @@
+.cardd * {
+    color: white;
+    font-size: x-small;
+    background-color: #5c74de;
+}
+.cardd{
+    width: 180px !important;
+    height: auto !important;
+    border: 3px solid #232d5a;
+    z-index: 500000;
+
+}
+.cardd .imgg{
+height: 150px !important;
+width: 100% !important;
+
+}
+
